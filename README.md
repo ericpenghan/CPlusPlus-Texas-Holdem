@@ -4,6 +4,6 @@
 
 2. In terminal or Virtual Machine , all you need to do is type in "make CS216PA2" cause I have a make file in there which will build and link everything, then just run it! This project has many different class and different private data members!
 
-3. Here is a sample what it looks like when you run it
+3. The screenshot is a sample what it looks like when you run it
 
 Thanks!
